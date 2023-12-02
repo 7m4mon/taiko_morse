@@ -5,3 +5,7 @@
 * 最高速度は 40WPM、最低速度は 5WPMで、43段階の調整が可能です。次回電源投入時は最後に設定した速度となります。
 * ポーリングレートは 200回／秒（5msに1回）です。 短長点レシオは１：３固定です。
 * [モールス→キーボード入力コンバーター](http://nomulabo.com/morse_usb_keyboard/)と組み合わせることで、タタコンでキーボード入力が可能になります。
+
+![](https://github.com/7m4mon/ookrx_wx_reporter/blob/main/taiko_morse_block.png)
+
+![](https://github.com/7m4mon/taiko_morse/blob/main/taiko_morse_device.JPG)
